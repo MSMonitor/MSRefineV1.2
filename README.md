@@ -1,4 +1,4 @@
-# MSRefineV1.2
+# MSRefineV1.2.0
 # Please download the latest version of MSRefine in the release area on the right.
 # The raw datases of SCIEX ZenoTOF and TMT are provided in the in the release area on the right.
 
